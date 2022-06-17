@@ -1,6 +1,2 @@
 #!/bin/bash
-echo "ALX school is so cool!"
-Merge conflict
-Update
-update
-Cool, all my changes will be now part of the main branch, ready to be deployed!
+echo "ALX School is so cool!"
